@@ -1,7 +1,7 @@
 # Hello World!
-
+#### AI and Python
 - 🔭 I’m currently working on Vivo - Telefônica Brasil
--  __AI and Python__
+
 ---
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,3 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermebarbosa.gb2495@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sousa-barbosa-122925266/)
 ***
+#### 🎯Future plans:
+1. Azure AI-900
+2. Turn into a Dev Jr
